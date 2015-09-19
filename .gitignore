@@ -56,6 +56,6 @@ docs/_build/
 # PyBuilder
 target/
 
-# Annoying file
+# Workspace file
 .DS*
 .idea/workspace.xml
