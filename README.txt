@@ -1,1 +1,1 @@
-Initial line
+Read this file before using our application.
